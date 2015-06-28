@@ -8,7 +8,7 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin helps to chooser file from dropbox and insert into wordpress editor.
+This plugin helps to choose file from dropbox and insert into wordpress editor.
 
 == Description ==
 
