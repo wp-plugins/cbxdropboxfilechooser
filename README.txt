@@ -22,6 +22,8 @@ Features:
 *   Native Wordpress Coding standard
 *   Save bandwidth using files from dropbox
 
+Learn more about this plugin http://wpboxr.com/product/cbx-dropbox-file-chooser-for-wordpress
+
 == Installation ==
 
 This section describes how to install the plugin and get it working.
